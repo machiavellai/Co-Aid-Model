@@ -90,7 +90,7 @@ This project successfully built a working **disinformation classifier** using ma
 
 ---
 ## Author
-Developed by **Oghenerukewve**, a Full Stack Developer with expertise in Machine Learning and AI.
+Developed by **Oghene Victor**, a software Developer with expertise in Machine Learning and AI.
 
 ---
 ## Acknowledgments
